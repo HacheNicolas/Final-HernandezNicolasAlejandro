@@ -21,6 +21,15 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "ACCESS_FINE_LOCATION"
+      ],
+      "package": "com.hachenicolas.appfundacion"
+    },
+    "config": {
+      "googleMaps": {
+        "apiKey": "AIzaSyBg8cSH-RH0zhYYgCvfTT1oXofqstbSZw4"
       }
     },
     "web": {
